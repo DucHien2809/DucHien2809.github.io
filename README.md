@@ -1,7 +1,1 @@
-# duchiennguyen
-~  $ git clone https://github.com/DucHien2809/duchiennguyen.github.io
-~ $ cd username.github.io
-~ $ echo "Hello World" > index.html
-~ $ git add --all
-~ # git commit -m "Initial commit"
-~ # git push -u origin main
+Xin chào mọi người, mình là Nguyễn Đức Hiến. Mình xin giới thiệu một chút về bản thân mình như sau: mình năm nay 18 tuổi, tới từ tỉnh Bà Rịa - Vũng Tàu và hiện đang là sinh viên năm nhất lớp KHMT2023.1 trường Đại học Công nghệ Thông tin - Đại học Quốc gia TP.HCM. Mình rất mong nhận được sự giúp đỡ từ mọi người.
